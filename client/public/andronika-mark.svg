@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ANDRONIKA mark">
+  <rect width="64" height="64" rx="14" fill="#101d25"/>
+  <path d="M15 45 31.8 14 49 45h-8.3L31.8 28.2 22.9 45z" fill="#d7bd72"/>
+  <path d="M25.3 42.4h13.2" fill="none" stroke="#101d25" stroke-width="3.2" stroke-linecap="square"/>
+  <path d="M18 50h28" fill="none" stroke="#d7bd72" stroke-width="1.4" stroke-linecap="round" opacity=".7"/>
+</svg>
